@@ -9,7 +9,7 @@ RDF dump is available here: https://download.geonames.org/all-geonames-rdf.zip
 
 ## instructions for uploading/updating the data:
 
-- converting the data using the python script
+- convert the data using the python script
 - copy the geonames.nt file to the `/blazegraph` folder which is mapped to `/blazegraph-data/`
 - go to the web UI of blazegraph, select the `update` tab and point to the file: `/blazegraph-data/geonames.nt`
 - Select `update`
