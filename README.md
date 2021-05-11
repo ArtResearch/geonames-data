@@ -1,4 +1,4 @@
-#Geonames ETL for upload to SPARQL endpoint
+# Geonames ETL for upload to SPARQL endpoint
 
 Some documentation is here: https://www.geonames.org/ontology/documentation.html
 
